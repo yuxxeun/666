@@ -1,0 +1,25 @@
+.master-row
+{
+    border: 1px solid #000;
+    border-radius: 15px;
+    -webkit-box-shadow: 12px 12px 0px -3px rgba(0,0,0,0.92);
+    -moz-box-shadow: 12px 12px 0px -3px rgba(0,0,0,0.92);
+    box-shadow: 12px 12px 0px -3px rgba(0,0,0,0.92);
+}
+
+.border-kanan
+{
+    height: 40px;
+    border-right: 1px solid #000;
+}
+
+.master-box
+{
+    height: auto;
+}
+
+.kotak-login
+{
+    width: 50%;
+    border: 1px solid #000;
+}
